@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    :
+title                    : " "
 title_separator          : "-"
 name                     : &name "Marat Salikhov"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Marat Salikhov"
   avatar           : "maratsalikhov.jpeg"
-  bio              : "PHD student at INSEAD"
+  bio              : "PHD Candidate at INSEAD"
   location         :
   employer         :
   googlescholar    :
